@@ -1,0 +1,33 @@
+/* Write your code here. */
+
+.container {
+  background-color: #ffffff;
+}
+
+.box-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.yellow {
+  background-color: #fbbf24;
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+}
+
+.blue {
+  background-color: #38bdf8;
+  height: 200px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+.pink {
+  background-color: #ec4899;
+  height: 300px;
+  width: 300px;
+  margin-right: 20px;
+}
